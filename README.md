@@ -6,4 +6,4 @@ after exporting project, replace index.html in main branch with the index.html t
 this plugin is my personal project and needs further development.
 
 
-if you want to help on this plugin or have any question contact me on discord: mitshima#5184
+if you want to help on this plugin or have any question contact me on discord: mitshima
